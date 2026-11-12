@@ -1,0 +1,3 @@
+-- Este script sustituye al "Health" que Roblox mete en cada personaje.
+-- Así la vida NO se recupera sola siempre: solo sube si tienes hambre y sed altas
+-- (eso lo controla el servidor en Sistemas/Inventario).

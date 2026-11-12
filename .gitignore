@@ -1,0 +1,9 @@
+# Archivo del lugar generado por Rojo
+/ElAnillo.rbxlx
+
+# Archivos de bloqueo de Roblox Studio
+/*.rbxlx.lock
+/*.rbxl.lock
+
+sourcemap.json
+roblox.yml

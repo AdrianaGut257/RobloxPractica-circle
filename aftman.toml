@@ -1,0 +1,4 @@
+# Herramientas del proyecto (se instalan con: aftman install)
+[tools]
+rojo = "rojo-rbx/rojo@7.7.0-rc.1"
+selene = "Kampfkarren/selene@0.27.1"
